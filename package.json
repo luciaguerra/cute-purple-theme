@@ -1,0 +1,31 @@
+{
+  "name": "cute-purple-uwu",
+  "displayName": "cute purple uwu!!",
+  "description": "cute purple theme for the programmer girlies <3",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "icon": "icons/purple-heart.png",
+  "author" : {
+    "name": "Lucía Guerra",
+    "email": "luciaguerra441@gmail.com",
+    "url": "https://ar.linkedin.com/lucia-guerra-castro"
+  },
+  "repository": {
+    "url": "https://github.com/luciaguerra/cute-purple-theme.git",
+    "type": "git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "cute purple uwu!!",
+        "uiTheme": "vs",
+        "path": "./themes/cute-purple-uwu-color-theme.json"
+      }
+    ]
+  }
+}
